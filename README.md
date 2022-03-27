@@ -1,4 +1,4 @@
-# Tweet em Python
+# [Tweet.py](https://twitter.com/Shacalliitto/status/1501308421492121602)
 Meu primeiro script de automatização em python 🐍
 
 ### Bibliotecas utilizadas: [pyautogui](https://pyautogui.readthedocs.io/en/latest/) e [pyperclip](https://pypi.org/project/pyperclip/)
